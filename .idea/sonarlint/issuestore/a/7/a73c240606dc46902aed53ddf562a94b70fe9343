@@ -1,0 +1,18 @@
+
+–python:S1192"QDefine a constant instead of duplicating this literal "application/json" 3 times.(îˆ©”8¢ÃÇò€2J$a25258ce-802d-44cf-b37e-76942d7f9521
+ƒpython:S5720">Rename "idTask" to "self" or add the missing "self" parameter.(íƒ…ï8ûºÂò€2J$4f98e337-b37b-41d4-afa9-3345413bddf9
+ˆpython:S5720
+">Rename "userId" to "self" or add the missing "self" parameter.(ñ¿ûùÿÿÿÿ8ûºÂò€2J$c847e3a4-c065-4972-9e53-52dabd30502a
+‰python:S5720"?Rename "content" to "self" or add the missing "self" parameter.(¿ÎÆûÿÿÿÿ8ûİÂò€2J$bedc0c28-2d54-4761-beef-d3610cfee966
+„python:S5720"?Rename "content" to "self" or add the missing "self" parameter.(Æîÿç8µĞËò€2J$d5944cd8-55fa-492b-bac1-615f746ee614
+„python:S5720"?Rename "task_id" to "self" or add the missing "self" parameter.(±‘êø8µĞËò€2J$79e4c2e2-ac6d-4998-ae91-e8b6430f63c4
+–python:S117"RRename this parameter "idTask" to match the regular expression ^[_a-z][a-z0-9_]*$.(íƒ…ï8üºÂò€2J$88d2fb0b-3d15-43fd-86b4-844a43a56efb
+python:S100"KRename method "getTaks" to match the regular expression ^[a-z_][a-z0-9_]*$.(íƒ…ï8üºÂò€2J$a38ab2a0-915f-4101-b850-2fc39b908257
+›python:S117
+"RRename this parameter "userId" to match the regular expression ^[_a-z][a-z0-9_]*$.(ñ¿ûùÿÿÿÿ8üºÂò€2J$83e38d35-5a28-4886-bf5d-bb90cd168c3b
+—python:S100
+"NRename method "getAllTaks" to match the regular expression ^[a-z_][a-z0-9_]*$.(ñ¿ûùÿÿÿÿ8üºÂò€2J$c697af32-7687-4d1f-80d1-bc185c07354f
+•python:S100"LRename method "postTaks" to match the regular expression ^[a-z_][a-z0-9_]*$.(¿ÎÆûÿÿÿÿ8ıºÂò€2J$a5d10320-aeb1-4b38-a701-d6edcf43c98b
+python:S100"KRename method "putTaks" to match the regular expression ^[a-z_][a-z0-9_]*$.(Æîÿç8¸ĞËò€2J$7bf9cdc9-e090-4a51-ab70-e19ad1d8ffa9
+’python:S100"NRename method "deleteTaks" to match the regular expression ^[a-z_][a-z0-9_]*$.(±‘êø8¸ĞËò€2J$6f325093-e38f-4773-91b3-aa7c470ced24
+opython:S1481"*Remove the unused local variable "header".(îˆ©”8¹ĞËò€2J$50483c82-c1bb-4846-ade8-0ac62e0c0aaf
