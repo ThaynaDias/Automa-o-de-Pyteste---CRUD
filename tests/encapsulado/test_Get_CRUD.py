@@ -9,5 +9,5 @@ def test_get__all_CRUD_endpoint():
     response = CRUDServices.getAllCRUD("4")
     json_response = response.json()
     assert response.status_code == 200
-    assert json_response["nome"] == "Gabriel Lopes Almeida 2"
+    assert json_response["nome"] == "Jam Batista"
 
